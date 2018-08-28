@@ -1,6 +1,6 @@
-FROM mooo.tech/openssh:7.5_p1-r1
+FROM mooo.tech/openssh:7.7_p1-r3
 
 MAINTAINER Youssef GHOUBACH <ghoubach.youssef@gmail.com>
 
 RUN apk add --update \
-    git=2.13.5-r0
+    git=2.18.0-r0
