@@ -1,4 +1,4 @@
-FROM mooo.tech/openssh:7.7_p1-r3
+FROM docker.pkg.github.com/youssefgh/docker-openssh/openssh:7.7_p1-r3
 
 MAINTAINER Youssef GHOUBACH <ghoubach.youssef@gmail.com>
 
