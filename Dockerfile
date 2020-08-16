@@ -1,6 +1,6 @@
-FROM docker.pkg.github.com/youssefgh/docker-openssh/openssh:7.7_p1-r3
+FROM docker.pkg.github.com/youssefgh/docker-openssh/openssh:8.3_p1-r0
 
 MAINTAINER Youssef GHOUBACH <ghoubach.youssef@gmail.com>
 
 RUN apk add --update \
-    git=2.18.1-r0
+    git=2.26.2-r0
